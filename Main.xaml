@@ -83,8 +83,8 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,117" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;abc&quot;]" />
-      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;DEV 1&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,117" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Arun&quot;]" />
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;DEV 2-Arun&quot;]" />
     </Sequence>
   </Sequence>
 </Activity>
